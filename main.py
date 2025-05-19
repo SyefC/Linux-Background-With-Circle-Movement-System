@@ -1,6 +1,8 @@
 import pygame
 import time
 
+#file name changed to main.py (before file renaming: "lbwcm.py"
+
 pygame.init()
 
 font = pygame.font.SysFont(None, 50)
